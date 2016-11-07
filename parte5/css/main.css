@@ -1,0 +1,40 @@
+/* Pon tu código css aqui*/
+body{
+    margin: 0;
+    padding: 0;
+}
+.todo div{
+    height: 200px;
+    width: 200px;
+}
+.uno{
+    background-color: #ee3e64;
+    position: absolute;
+    left: o;
+    top: 0;
+}
+.dos{
+    background-color: #44accf; 
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.tres{
+    background-color: #b7d84b;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.cuatro{
+    background-color: yellow;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+a{
+    color: violet;
+    font-family: cursive;
+    font-size: 30px;
+    padding-left: 600px;
+    
+}
