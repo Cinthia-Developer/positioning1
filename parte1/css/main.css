@@ -6,8 +6,7 @@ body{
 .todo div{
     height: 200px;
     width: 200px;
-    position: relative;
-    left: 200px;
+    
 }
 .uno{
     background-color: #ee3e64;

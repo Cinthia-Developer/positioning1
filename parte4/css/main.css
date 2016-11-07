@@ -1,4 +1,3 @@
-/* Pon tu código css aqui*/
 body{
     margin: 0;
     padding: 0;
@@ -10,11 +9,10 @@ body{
 .uno{
     background-color: #ee3e64;
 }
-.uno div{
+.dos{
     background-color: #44accf;
     position: relative;
     left: 200px;
-    
 }
 .tres{
     background-color: #b7d84b;
